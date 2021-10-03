@@ -15,6 +15,8 @@ export default function TabOneScreen() {
       <FlatList
         data={chatRoomsData}
         renderItem={({ item }) => <ChatRoomItem chatRoom={item} />}
+        //Remove scroll bar
+        showsVerticalScrollIndicator={false}
       />
     </View>
   );
