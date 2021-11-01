@@ -5,7 +5,7 @@ import ChatRoomItem from "../components/ChatRoomItem";
 
 import chatRoomsData from "../assets/dummy-data/ChatRooms";
 
-export default function TabOneScreen() {
+export default function HomeScreen() {
   //FlatList implemented to display chatRoomItem components for each set of data in Array
   //FlatList smartly displays data in a scrollable list
   //data,renderItem are props passed for FlatList
