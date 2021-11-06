@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-textagram-dev-190357-authRole",
+      "UnauthRoleArn": "arn:aws:iam::444837886366:role/amplify-textagram-dev-190357-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::444837886366:role/amplify-textagram-dev-190357-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-textagram-dev-190357-deployment",
+      "UnauthRoleName": "amplify-textagram-dev-190357-unauthRole",
+      "StackName": "amplify-textagram-dev-190357",
+      "StackId": "arn:aws:cloudformation:us-east-1:444837886366:stack/amplify-textagram-dev-190357/6079ed60-3b18-11ec-a424-12f6d51fe9c7",
+      "AmplifyAppId": "d2v93eu1gyk7iw"
+    },
+    "categories": {
+      "auth": {
+        "Textagram": {}
+      }
+    }
+  }
+}
